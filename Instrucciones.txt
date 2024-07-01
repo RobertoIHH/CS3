@@ -1,3 +1,5 @@
+Instalar Scapy para el funcionamiento de los programas
+
 En la carpeta de Pruebas-Pasos, se muestra como se debe de operar los programas. a continuas una descripcion escrita de como ocuparlos
 1.- Revisar que las 2 maquinas estan conectadas a la misma subred y que hay conexion entre ellas y que tienen la misma salida del router con ip route | grep default
 2.- Revisar las ips de cada una de las maquinas para saber a que maquina se va a atacar y cual es la que atacara
