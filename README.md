@@ -8,3 +8,5 @@ En la carpeta de Pruebas-Pasos, se muestra como se debe de operar los programas.
 Posibles problemas
 Puede que el programa que detecta el detectarARP.py no optenga la MAC del router, si esto sucede solo se tiene que hacer un ping al 8.8.8.8, dejar que envie 2 a 4 paquetes y que sean exitosos, despues
 comprobar la tabla arp y si en esta ya se carga la MAC del router volver a probar el programa
+
+En caso de no ver esto bien, revisar el archivo instrucciones.txt
